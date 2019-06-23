@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26181537254",
+    "firebase_url": "https://firestorerestapi.firebaseio.com",
+    "project_id": "firestorerestapi",
+    "storage_bucket": "firestorerestapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26181537254:android:dd0153b11c129a13",
+        "android_client_info": {
+          "package_name": "com.aligkts.firestorerestapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26181537254-qframrq4q1b808d6pb3p564t0ggvk1eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aligkts.firestorerestapi",
+            "certificate_hash": "ca1011d7c513de2429a122b41c3aa615006593e4"
+          }
+        },
+        {
+          "client_id": "26181537254-ifi3dpes0j2irknbmd2frup1sh688iui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4sXhH_5hDkVP9QYF2U8x7DjOfcg7krU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26181537254-ifi3dpes0j2irknbmd2frup1sh688iui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
